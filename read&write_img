@@ -1,2 +1,5 @@
 # opencv_beginner
-this is a samall python program to read and write a img file using opencv module
+this is a repo contain opencv project for beginers
+open.py is to read and save a image..
+video.py is to read and save a video
+
