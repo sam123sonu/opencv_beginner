@@ -1,5 +1,8 @@
 # opencv_beginner
 this is a repo contain opencv project for beginers
+we have a image(lena.jpg) over here..and i am using it in my python files...
 open.py is to read and save a image..
 video.py is to read and save a video
+draw.py is to draw geometrical shape on a image..
+num_draw.py is to draw geometrical shape on a image created by using numpy libray.....
 
