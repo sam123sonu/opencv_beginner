@@ -5,4 +5,4 @@ open.py is to read and save a image..
 video.py is to read and save a video
 draw.py is to draw geometrical shape on a image..
 num_draw.py is to draw geometrical shape on a image created by using numpy libray.....
-
+set_video.py is to set the frame size (height&width) of a video frame
