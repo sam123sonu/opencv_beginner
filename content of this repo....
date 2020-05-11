@@ -10,3 +10,6 @@ text_video.py is to add text int he video frame....
 date_video.py is to add current date and time in the video frame...
 img_cordinate.py is for showing the mouse event 1:right click(shows the cordinate of the point in the frame)
                                                 2:left click(shows the BGR index of that  point){BGR stands for blue,green,red}
+                                                
+mouse_event.py shows how we can draw lines on ascreen according to mouse events(like in paints...)
+mouse_color.py shows the color of each point separately on a diffrent frame when clicked on any photo(here i have used butterfly.jpg) 
