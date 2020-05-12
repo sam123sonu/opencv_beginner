@@ -18,3 +18,5 @@ messy.jpg contain football...
 messy_edit.jpg is the image came after the program...(where ball is missing...)
 img_add.py is to add 2 image files in 2 method(1:add(),result-messy_add.jpg 2:addweighted(),result-messy_addweighted.jpg......given in repo)
 img_bitwise.py is for bitwise operation between 2 images(img1.jpg,img2.jpg)...so results are in repo(1:and.jpg,2:or.jpg,3:xor.jpg,4:not.jpg)                                                 
+color_trackbar.py shows the implementation of trackbars..(i have taken trackbar of (B,G,R) by using we can get any color)
+BGR.jpg contains the snapshot of th generated color
